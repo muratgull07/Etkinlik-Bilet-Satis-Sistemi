@@ -1,4 +1,4 @@
-Uygulamanın kullanım amacı etkinlikleri organze edip ve bilet şatış yapabilmesine olanak sağlayan bir uygulamadır
+Uygulamanın kullanım amacı etkinlikleri organze edip ve bilet şatış yapabilmesine olanak sağlayan bir uygulamadır.
 
 ![Ekran Alıntısı](https://github.com/muratgull07/Etkinlik-Bilet-Satis-Sistemi/assets/148050387/9364fef2-bed1-4984-af9e-6aee1e23947e)
 
